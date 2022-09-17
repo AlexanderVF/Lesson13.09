@@ -1,4 +1,6 @@
-﻿Console.Clear();
+﻿// Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
+
+Console.Clear();
 int[,] GetArray(int m, int n) {
     int[,] array = new int[m,n];
         for (int i = 0; i < m; i++) {
@@ -30,15 +32,15 @@ Console.WriteLine();
 
 int sum = 0;
 int isum = 0;
-int min = 10000;
+int min = columns*100;
 int rowmin = 0;
 for (int i = 0; i < rows; i++ ) {
     for (int j = 0; j < columns; j++) {
         sum = array[i, j] + sum;    
                 
     }
-    //Console.WriteLine(sum);
-    //Console.WriteLine();
+    Console.WriteLine(sum);
+    Console.WriteLine();
     if (sum <= min) {
         min = sum;
         rowmin = i + 1;

@@ -1,0 +1,15 @@
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\bin\Debug\net6.0\Les_1.exe
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\bin\Debug\net6.0\Les_1.deps.json
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\bin\Debug\net6.0\Les_1.runtimeconfig.json
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\bin\Debug\net6.0\Les_1.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\bin\Debug\net6.0\Les_1.pdb
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.csproj.AssemblyReference.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.AssemblyInfoInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.AssemblyInfo.cs
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.csproj.CoreCompileInputs.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\refint\Les_1.dll
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.pdb
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\Les_1.genruntimeconfig.cache
+F:\Обучение\ГикБрейнс\Репозитории\Lesson_prog_c_8\Les_1\obj\Debug\net6.0\ref\Les_1.dll
