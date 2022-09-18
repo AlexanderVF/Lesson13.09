@@ -57,7 +57,7 @@ for (int i = array.GetLength(0) -2; i <= array.GetLength(0) - 2; i++){
     array[i, array.GetLength(0) -2] = k;
     k++;
 }
-for (int j = array.GetLength(1) -3; j >= 0; j--){
+for (int j = array.GetLength(1) -3; j > 0; j--){
     array[array.GetLength(1)-2, j] = k;
     k++;
 }
